@@ -53,7 +53,7 @@ Download 6.5: https://github.com/1000blxdesss/AwesomeGI/releases/download/6.5/pu
 - [**Trail**](MAIN/Visual/trail.md)
 - [**Wireframe**](MAIN/Visual/wireframe.md)
 
-### Misc (15)
+### Misc (17)
 - [**Auto Destroy**](MAIN/Misc/auto-destroy.md)<sub>[+Highlight]</sub>
 - [**Auto Dialog**](MAIN/Misc/auto-dialog.md)
 - [**Booba Scale**](MAIN/Misc/booba-scale.md)
